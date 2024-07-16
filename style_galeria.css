@@ -43,6 +43,7 @@ button{
 
 #colection{
     margin-left: 300px;
+    padding: 30px 5px;
 }
 
 img{
@@ -52,7 +53,11 @@ img{
 
 .polaroid{
     display: inline-table;
+    margin-right: 5px;
     text-align: center;
     border: 10px solid white;
+    background-color: white;
+    padding: 2px;
 }
+
 

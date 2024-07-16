@@ -1,49 +1,63 @@
-*{
-   margin: 0;
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+* {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-   
-#menu-interativo{
-    background-image: url(./Imagem/imagemdetopo.svg);
-    padding-top: 0px;
-    height: 350px;
-    
+body{
+    background-color: rgb(141, 139, 139);
 }
-#menu-interativo,h1{ 
+
+#menu-interativo {
+    background-color: black;
+    padding: 20px 20px 120px 20px;
+}
+
+#menu-interativo,
+h1 {
     text-align: center;
+    color: white;
 }
 
-#button{
+#menu-interativo,
+img {
+    text-align: center;
+    margin-bottom: 2px;
+    height: 200px;
+}
+
+#navegacao-menu {
+    background-color: black;
     margin-left: 540px;
     border-radius: 50px;
     padding: 0px;
-    padding-bottom: 20px;
 }
-    
-button{
+
+button {
     background-color: rgba(231, 209, 6, 0.849);
     text-align: center;
     padding: 10px 20px 10px 20px;
     border-radius: 50px;
 }
-a{
+
+a {
     text-decoration: none;
     color: black;
 }
-#palhaco:hover{
+
+#palhaco:hover {
     background-color: rgb(111, 161, 11);
 }
-#palhaco{
+
+#palhaco {
     border: 2px solid rgb(5, 172, 5);
 }
 
-#face-main{
+#face-main {
+    text-align: center;
+    margin-top: 40px;
     background-color: rgb(180, 178, 178);
     border-radius: 5px;
     padding: 25px;
     margin-left: 250px;
     margin-right: 250px;
 }
-
