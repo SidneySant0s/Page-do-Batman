@@ -2,9 +2,8 @@
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
 body{
-    background-color: rgb(141, 139, 139);
+    background-color: grey;
 }
 
 #menu-interativo {
@@ -51,12 +50,12 @@ a {
     border: 2px solid rgb(5, 172, 5);
 }
 
-#face-main {
+.face-main {
     text-align: center;
-    margin-top: 40px;
     background-color: rgb(180, 178, 178);
     border-radius: 5px;
     padding: 25px;
     margin-left: 250px;
     margin-right: 250px;
+    margin-top: 20px;
 }
