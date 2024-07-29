@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+body{
+    background-image: url(./Imagem/Charada.png);
+    background-size: cover;
+    height: 700px;
+}
+#menu-superior{
+    background-image:linear-gradient(rgb(7, 75, 35),rgba(40, 116, 11, 0.87),rgb(13, 36, 2));
+    padding: 40px 30px;
+    border: none;
+    text-align: center;
+}
+#menu-superior a{
+    padding: 20px 50px;
+    color: white;
+    border: 0.5px solid rgb(63, 194, 3);
+    text-decoration: none;
+    border-radius: 15px;
+    background-image:linear-gradient(rgb(7, 75, 35),rgba(47, 151, 6, 0.87),rgb(13, 36, 2));
+}
+.btn{
+    
+}
+
+#palhaco:hover {
+    background-color: rgb(252, 3, 177);
+}

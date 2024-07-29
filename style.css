@@ -3,12 +3,12 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 body{
-    background-color: grey;
+    background-image: url(./Imagem/Thegotham.jpg);
 }
 
 #menu-interativo {
     background-color: black;
-    padding: 20px 20px 120px 20px;
+    padding: 20px 20px 100px 20px;
 }
 
 #menu-interativo,

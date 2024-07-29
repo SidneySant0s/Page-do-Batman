@@ -1,7 +1,3 @@
-*{
-   
-}
-
 body{
     background-image: url(Imagem/Joker\ page.jpg);
     padding-top: 20px;
@@ -83,4 +79,8 @@ button{
     text-align: center;
     display: flex;
     color: white;
+}
+
+.esferas:hover{
+    transform: scale(1.2);
 }
