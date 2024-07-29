@@ -4,17 +4,14 @@ body{
     height: fit-content;
 }
 
-header{
-    position: fixed;
-}
-
 #menu-torre{
     background-color: rgb(56, 55, 55);
     color: rgb(253, 253, 253);
     border-radius: 5px;
     text-align: center;
-    width: 200px;
-    height: 250px;
+    margin-left: 125px;
+    margin-right: 100px;
+    width: 100%;
     opacity: 0.5;
     padding: 10px;
 }
@@ -42,8 +39,9 @@ button{
 }
 
 #colection{
+    
     margin-left: 300px;
-    padding: 30px 5px;
+    padding: 25px 5px;
 }
 
 img{

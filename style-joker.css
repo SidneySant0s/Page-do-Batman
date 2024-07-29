@@ -67,3 +67,20 @@ button{
     margin-right: 50px;
     margin-bottom: 20px;
 }
+
+
+.esferas{
+    border: none;
+    border-radius: 50%;
+    margin-left: 20px;
+    padding: 10px;
+    width: 300px;
+    height: 300px;
+}
+
+#mini-galeria{
+    margin-left: 490px;
+    text-align: center;
+    display: flex;
+    color: white;
+}
