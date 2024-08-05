@@ -4,7 +4,7 @@
 body{
     background-image: url(./Imagem/Charada.png);
     background-size: cover;
-    height: 700px;
+
 }
 #menu-superior{
     background-image:linear-gradient(rgb(7, 75, 35),rgba(40, 116, 11, 0.87),rgb(13, 36, 2));
@@ -20,10 +20,38 @@ body{
     border-radius: 15px;
     background-image:linear-gradient(rgb(7, 75, 35),rgba(47, 151, 6, 0.87),rgb(13, 36, 2));
 }
-.btn{
-    
-}
 
 #palhaco:hover {
     background-color: rgb(252, 3, 177);
 }
+
+.container{
+    display: flex;
+    text-align: center;
+}
+
+.blocos{
+    text-align: center;
+    background-color: rgb(74, 109, 67);
+    opacity: 0.9;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+}
+
+
+#colum1{
+    text-align: left;
+    padding: 50px;
+    margin-left: 50px;
+    display: flow-root;
+}
+
+#colum2{
+    padding: 50px;
+    margin-right: 50px;
+    text-align: left;
+}
+
+
+
